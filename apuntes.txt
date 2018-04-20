@@ -1,0 +1,11 @@
+javascrit gitignore
+crear archivo gitignore (lee archivos que seran ignorados en el repositorio)
+
+escribir en el .gitignore creado la sigueinte linea:  .idea, para ignorar a esa carpeta
+
+abrir la carpeta del repositorio personal en webstorm y crear una subcarpeta con "tipos de datos"
+
+crear al archivo tipos.js
+
+
+
